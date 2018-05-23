@@ -569,6 +569,7 @@ img {
 
 .thumbs {
   margin-top: 24px; }
+
   @media screen and (max-width: 599px) {
     .thumbs {
       margin-top: 48px; } }
@@ -594,7 +595,8 @@ img {
       padding: 80px 10%; } }
   @media screen and (max-width: 599px) {
     .video {
-      padding: 40px 6%; } }
+      padding: 40px 6%;}  }
+
   .video .fluid-width-video-wrapper {
     width: 100%;
     display: block; }
